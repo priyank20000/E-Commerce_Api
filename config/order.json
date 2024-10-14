@@ -1,0 +1,28 @@
+{
+    "user_id": "66bc586348b47bc56d3327ed",
+    "address_id":"66d803a690166fe26734d5f4",
+    "order_item": [
+        {
+            "product_id":"668faa33d73f35255c62fff9",
+            "quantity":3,
+            "price":"30000"
+        }
+    ],
+    "order_code":"O-1",
+    "order_date":"2022-10-18T11:41:46.000Z",
+    "order_status":"delivered",
+    "payment":"RAZARPAY",
+    "payment_id":"123",
+    "payment_status":"paid",
+    "isPaymentSuccess":true,
+    "shipping_charge":"10000",
+    "gst":"1000",
+    "totalPrice":"41000",
+    "isShipping":true,
+    "createdAt":{
+        "$date":"2024-9-14T11:41:46.000Z"
+    },
+    "updatedAt":{
+        "$date":"2024-9-14T11:41:46.000Z"
+    }
+}
